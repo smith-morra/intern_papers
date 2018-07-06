@@ -1,0 +1,46 @@
+Responsive Web Design Certification (300 hours)
+Basic HTML and HTML5
+Introduction to Basic HTML and HTML5
+PassedSay Hello to HTML Elements
+PassedHeadline with the h2 Element
+PassedInform with the Paragraph Element
+PassedFill in the Blank with Placeholder Text
+PassedUncomment HTML
+PassedComment out HTML
+PassedDelete HTML Elements
+PassedIntroduction to HTML5 Elements
+PassedAdd Images to Your Website
+PassedLink to External Pages with Anchor Elements
+PassedLink to Internal Sections of a Page with Anchor Elements
+PassedNest an Anchor Element within a Paragraph
+PassedMake Dead Links Using the Hash Symbol
+PassedTurn an Image into a Link
+PassedCreate a Bulleted Unordered List
+PassedCreate an Ordered List
+PassedCreate a Text Field
+PassedAdd Placeholder Text to a Text Field
+PassedCreate a Form Element
+PassedAdd a Submit Button to a Form
+PassedUse HTML5 to Require a Field
+PassedCreate a Set of Radio Buttons
+PassedCreate a Set of Checkboxes
+PassedCheck Radio Buttons and Checkboxes by Default
+PassedNest Many Elements within a Single div Element
+PassedDeclare the Doctype of an HTML Document
+PassedDefine the Head and Body of an HTML Document
+Basic CSS
+Introduction to Basic CSS
+PassedChange the Color of Text
+PassedUse CSS Selectors to Style Elements
+PassedUse a CSS Class to Style an Element
+PassedStyle Multiple Elements with a CSS Class
+PassedChange the Font Size of an Element
+PassedSet the Font Family of an Element
+PassedImport a Google Font
+PassedSpecify How Fonts Should Degrade
+PassedSize Your Images
+PassedAdd Borders Around Your Elements
+PassedAdd Rounded Corners with border-radius
+PassedMake Circular Images with a border-radius
+PassedGive a Background Color to a div Element
+PassedSet the id of an Element
