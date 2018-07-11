@@ -6,4 +6,7 @@ butondan sayfa yönlendirmesi yapıldı.
 Today, I started coding with asp.net MVC.Firstly I wrote some codes which contain a button and when clicking this button it runs 
 postback and the open small window says "you're clicked button"(i wrote this in javascript alert).
 
+and i want to add something to the right click when on the chome page.I u selection search extension and find search engines url 
+for http://mycroftproject.com/.
+
 
