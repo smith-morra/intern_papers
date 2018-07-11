@@ -3,7 +3,7 @@ asp.net projesinde javascript alert ile uyarı mesajı verildi.
 butondan sayfa yönlendirmesi yapıldı.
 ---
 
-Today, i started coding with asp.net mvc.Firstly i wrote some codes which are contain a button and when clik this button it runs 
-postback and open small window says "youre clicked button"(i wrote this in javascript alert).
+Today, I started coding with asp.net MVC.Firstly I wrote some codes which contain a button and when clicking this button it runs 
+postback and the open small window says "you're clicked button"(i wrote this in javascript alert).
 
 
